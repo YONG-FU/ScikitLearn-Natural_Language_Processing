@@ -1,0 +1,1 @@
+"LIBOR Rate Margin" -- 8.50% per annum.

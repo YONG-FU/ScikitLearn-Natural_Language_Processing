@@ -1,0 +1,1 @@
+﻿"Interest  Payment  Date  means  (a)  with  respect  to  any  ABR  Senior  Loan  and  any  Eurodollar Senior Loan for which the Interest Period is 12 months, each Semi-Annual Date, (b) with respect to any Eurodollar Senior Loan, the last day of the Interest Period applicable to the Borrowing of which such Senior Loan is a part, and (c) in each case, the Final Maturity Date."

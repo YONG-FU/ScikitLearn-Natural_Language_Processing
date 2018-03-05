@@ -1,0 +1,1 @@
+﻿"""Facility B Repayment Date"" means each date set out in paragraph  (b) of Clause   6.1 (Repayment of Loans)."

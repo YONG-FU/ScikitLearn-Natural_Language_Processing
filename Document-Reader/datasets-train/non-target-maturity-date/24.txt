@@ -1,0 +1,1 @@
+﻿"Action if Bankruptcy.  If any Event of Default described in clauses (a) through (d) of Section 9.1(h) with respect to the Company or AMH shall occur, the outstanding principal amount of all outstanding Notes and all other Note Obligations shall automatically be and become immediately due and payable, without notice or demand."

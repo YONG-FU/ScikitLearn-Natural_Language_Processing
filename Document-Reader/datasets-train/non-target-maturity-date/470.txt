@@ -1,0 +1,1 @@
+﻿"""Application Event"" means the occurrence of (a) a failure by Borrowers to repay all of the Obligations in full on the Maturity Date, or (b) an Event of Default and the election by Agent or the Required Lenders to require that payments and proceeds of Collateral be applied pursuant to Section 2.4(b)(ii) of the Agreement."

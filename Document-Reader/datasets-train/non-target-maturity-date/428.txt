@@ -1,0 +1,1 @@
+﻿"Distribution Date means 15 Banking Days after each Repayment Date up to and including the Term Loan Maturity Date or, if such date occurs on a day other than a Banking Day, the next succeeding Banking Day after such date.  Notwithstanding anything in any Financing Document to the contrary, no Distribution Date shall occur prior to the Initial Repayment Date."

@@ -1,0 +1,1 @@
+﻿"Section 9.2.  Action  if  Bankruptcy.    If  any  Event  of  Default  described  in  clauses (h) through (i) of Section 9.1 shall occur, the outstanding Principal Amount of all outstanding Notes and  all  other  Obligations  shall  automatically  be  and  become  immediately  due  and  payable, without notice or demand."

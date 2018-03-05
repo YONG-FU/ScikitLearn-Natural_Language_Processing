@@ -1,0 +1,1 @@
+﻿"(2) is equal to or exceeds 50%, but is less than 75%, of the aggregate amount of Cash  Interest  that  would  otherwise  be  due  on  the  relevant  Interest  Payment  Date,  then  the Issuer may, at its option, elect to pay interest on up to 50% of the then outstanding principal amount of the Notes as PIK Interest;"

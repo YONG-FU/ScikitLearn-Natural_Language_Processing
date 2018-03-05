@@ -1,0 +1,1 @@
+﻿"Swing Loan Maturity Date means, with respect to any Swing Loan, the earlier of (i) the last day of the period for such Swing Loan as established by the Swing Line Lender and agreed to by the Parent Borrower, which shall be less than 15 days, and (ii) the Revolving Facility Termination Date."
